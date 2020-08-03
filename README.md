@@ -4,4 +4,4 @@
 - 🔭 I’m currently working on SSAFY
 - 🌱 I’m currently learning Swift
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ahyeonlog&show_icons=true&theme=tokyonight)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ahyeonlog&show_icons=true&theme=default)
