@@ -1,4 +1,6 @@
-### Hi, I'm Ahyeon 👋
+# Ahyeon Gil 👩🏻‍💻
+
+### Hi there 👋
 
 
 - 🔭 I’m currently studying at SSAFY
