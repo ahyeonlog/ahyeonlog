@@ -3,7 +3,10 @@
 
 - 🔭 I’m currently studying at SSAFY
 - 🌱 I’m currently learning iOS Programming
-
+- 📝 I regularly write articles on [https://ahyeonlog.tistory.com](https://ahyeonlog.tistory.com)
+- 📫 How to reach me **ahyeonlog@gmail.com**
+  
+  
 ### Languages and Tools:
 
 <p align="left">
@@ -20,4 +23,4 @@
 </p>
 
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ahyeonlog&show_icons=true&theme=graywhite&hide_border=true)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ahyeonlog&show_icons=true&theme=dark&hide_border=true)
