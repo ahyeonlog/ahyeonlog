@@ -1,6 +1,8 @@
-# Ahyeon Gil 👩🏻‍💻
+![header](https://capsule-render.vercel.app/api?type=wave&color=#d1c6f3&height=300&section=header&text=Ahyeon%20Gil&fontSize=90&animation=fadeIn&fontAlignY=38)
 
-### Hi there 👋
+<p align='center'>### Hi there 👋</p>
+
+
 
 
 - 🔭 I’m currently studying at SSAFY
