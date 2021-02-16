@@ -7,9 +7,8 @@
 
 <p align='center'>🔭 I’m currently studying at SSAFY</p>
 <p align='center'>🌱 I’m currently learning iOS Programming</p>
-<p align='center'>📝 I regularly write articles on [https://ahyeonlog.tistory.com](https://ahyeonlog.tistory.com)</p>
-<p align='center'>📫 How to reach me : ahyeonlog@gmail.com</p>
-  
+<p align='center'>📝 I regularly write articles on <a href="https://ahyeonlog.tistory.com">https://ahyeonlog.tistory.com</a></p>
+
 <h3 align='center'>🛠 Tech Stack 🛠</h3>
 <p align='center'>
   <img src="https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=Swift&logoColor=white"/></a>&nbsp
@@ -22,6 +21,13 @@
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/aws-333664?style=flat-square&logo=amazon-aws&logoColor=white"/></a>&nbsp 
 </p>
+
+<h3 align="center">📫 How to reach me 📫</h3>
+<p align="center">
+  <a href="mailto:ahyeonlog@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=ahyeonlog@gmail.com"/></a>
+</p>
+<br>
+
 
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ahyeonlog&show_icons=true&theme=dark&hide_border=true)
