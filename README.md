@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=#d1c6f3&height=300&section=header&text=Ahyeon%20Gil&fontSize=90&animation=fadeIn&fontAlignY=38)
+![header](https://capsule-render.vercel.app/api?type=wave&color=#d1c6f3&height=300&section=header&text=ahyeon%20gil&fontSize=90&animation=fadeIn&fontAlignY=38)
 
 <p align='center'>### Hi there 👋</p>
 
