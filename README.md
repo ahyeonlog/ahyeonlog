@@ -7,7 +7,7 @@
 
 <p align='center'>🔭 I’m currently studying at SSAFY</p>
 <p align='center'>🌱 I’m currently learning iOS Programming</p>
-<p align='center'>📝 I regularly write articles on <a href="https://ahyeonlog.tistory.com">https://ahyeonlog.tistory.com</a></p>
+<p align='center'>📝 I regularly write articles on <a href="https://ahyeonlog.tistory.com">https://ahyeonlog.github.io</a></p>
 
 <h3 align='center'>🛠 Tech Stack 🛠</h3>
 <p align='center'>
