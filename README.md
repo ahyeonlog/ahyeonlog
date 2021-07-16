@@ -5,7 +5,7 @@
 
 
 
-<p align='center'>🔭 I’m currently studying at SSAFY</p>
+<p align='center'>🔭 I completed the SSAFY(4th) curriculum</p>
 <p align='center'>🌱 I’m currently learning iOS Programming</p>
 <p align='center'>📝 I regularly write articles on <a href="https://ahyeonlog.tistory.com">https://ahyeonlog.github.io</a></p>
 
